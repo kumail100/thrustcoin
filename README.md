@@ -1,4 +1,6 @@
 Business Plan for ThrustCoin and Municoin
+
+
 Executive Summary
 ThrustCoin is a digital cryptocurrency designed to provide funding for defense manufacturing companies, enabling them to grow their operations, innovate, and contribute to national security. Municoin is a tokenized municipal bond product that allows individuals and institutional investors to buy shares in municipal bonds issued by defense manufacturers and other government agencies. Together, ThrustCoin and Municoin create a symbiotic ecosystem that bridges the gap between defense manufacturing funding needs and public investment opportunities.
 
